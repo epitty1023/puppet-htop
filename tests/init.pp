@@ -1,1 +1,1 @@
-class { 'moduleplate': }
+class { 'htop': }

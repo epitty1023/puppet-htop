@@ -1,6 +1,6 @@
-# puppet-moduleplate
+# puppet-htop
 
-[![Build Status](https://travis-ci.org/paul91/puppet-moduleplate.png?branch=master)](https://travis-ci.org/paul91/puppet-moduleplate)
+[![Build Status](https://travis-ci.org/paul91/puppet-htop.png?branch=master)](https://travis-ci.org/paul91/puppet-moduleplate)
 
 #### Table of Contents
 

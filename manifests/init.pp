@@ -1,5 +1,9 @@
-class moduleplate (
+class htop (
+    $ensure = $htop::params::ensure,
+  ) inherits htop::params {
 
-  ) inherits moduleplate::params {
+  package { 'htop':
+    ensure => $ensure,
+  }
 
 }
