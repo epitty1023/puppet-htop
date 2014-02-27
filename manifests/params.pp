@@ -1,5 +1,6 @@
 class htop::params {
-  $ensure  = present
-  $rcfile  = 'puppet:///modules/htop/htoprc'
-  $replace = false
+  $ensure       = present
+  $default_conf = true
+  $rcfile       = 'puppet:///modules/htop/htoprc'
+  $replace      = false
 }
