@@ -1,10 +1,8 @@
 name 'paull-htop'
-version ''
-source ''
-author ''
-license ''
-summary ''
-description ''
-project_page ''
-
-## Add dependencies, if any:
+version '0.0.1'
+source 'git@github.com:paul91/puppet-htop.git'
+author 'Paul Lewis'
+license 'GPL'
+summary 'Puppet HTop Module'
+description 'A Puppet module for installing and managing htop'
+project_page 'https://github.com/paul91/puppet-htop'
